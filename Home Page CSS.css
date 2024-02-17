@@ -213,8 +213,9 @@ background-color:#7a7c7a;}
 .sale-heading {
     font-weight: normal;
     font-size: 4rem;
+   text-align:center;
     margin-top: 5rem;
-    margin-left: 25%;
+   
 }
 
 .countdown-container {
