@@ -17,7 +17,7 @@ body{
     margin: 0px;
     padding: 0px;
     font-family: poppins;
-	background-color:green;
+
 }
  
 ::selection{
@@ -216,7 +216,7 @@ background-color:#7a7c7a;}
     font-size: 4rem;
    margin-left:5cm;
     margin-top: 5rem;
-    align-items:center;
+    text-align: centre;
    
 }
 
