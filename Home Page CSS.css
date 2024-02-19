@@ -14,10 +14,9 @@ a{
     text-decoration: solid;
 }
 body{
-    margin: 0px;
+    margin: 50px;
     padding: 0px;
     font-family: poppins;
-
 }
  
 ::selection{
@@ -213,10 +212,11 @@ background-color:#7a7c7a;}
 /* sale */
 .sale-heading {
     font-weight: normal;
-    font-size: 4rem;
-    margin-top: 5rem;
     text-align:center;
     margin-left:2%;
+    font-size: 4rem;
+    margin-top: 5rem;
+    
 }
 
 .countdown-container {
