@@ -215,7 +215,8 @@ background-color:#7a7c7a;}
     font-weight: normal;
     font-size: 4rem;
     margin-top: 5rem;
-    margin-left: 20%;
+    text-align:center;
+    margin-left:2%;
 }
 
 .countdown-container {
